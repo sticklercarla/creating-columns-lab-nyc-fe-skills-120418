@@ -60,7 +60,8 @@ img:hover {
 }
 .medium {
   margin-left: 30%;
-  
+  height: 500%;
+  width: 500%;
 }
 .large {
   
