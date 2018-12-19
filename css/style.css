@@ -50,7 +50,7 @@ img:hover {
 .column {
   width: 33%;
   column-count: 3;
-  
+  column-width: 33%;
   
 }
 
